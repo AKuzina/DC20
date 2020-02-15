@@ -9,4 +9,5 @@ Course email: dataculture2020@gmail.com
 | Week 2. Variables, lists | [Notebook](https://colab.research.google.com/drive/1HiZ9gQOO1jbTS3VGdYJMejBEhXHfVeIj), [Quiz](https://forms.gle/quk5RoKA4XNaP2Rn9)|
 |Week 3. If-else, For loop, numpy | [Notebook1: if-else and for](https://colab.research.google.com/drive/1L-TAYRo5t23Cm8CF9z3gKxzmzyzQyKUZ), [Notebook2: numpy](https://drive.google.com/file/d/1krK47zzILf856msoJ4u6MSLNdBRi2Bae/view?usp=sharing), [image](https://drive.google.com/file/d/1Z5I7pfPfDkQx2HKg4QL94_xRHytk1fLb/view?usp=sharing), [Quiz](https://forms.gle/wdciaCvmYXZTzbwr5)|
 | Week 4: Numpy | [Notebook](https://drive.google.com/file/d/1JnFFVN1Mk_1yfzgVc8bqoDECBHmz6TLK/view?usp=sharing)|
-| Week 5: Dictionary and Pandas | [Notebook](https://colab.research.google.com/drive/1nyqvjaNf38eMLHB1jX_E_xeFY2INkYn8), [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdEvGhYM7AfZHdFrZmSNrF3lSriej6r8plcPdglLl2LR6PocA/viewform?usp=sf_link)|
+| Week 5: Dictionary  | [Notebook](https://colab.research.google.com/drive/1nyqvjaNf38eMLHB1jX_E_xeFY2INkYn8), [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdEvGhYM7AfZHdFrZmSNrF3lSriej6r8plcPdglLl2LR6PocA/viewform?usp=sf_link)|
+| Week 6: Pandas | [Notebook](https://colab.research.google.com/drive/1XRHXJxblVXaHMuuh1sM0WKG4Z81G8qh8), [Quiz](https://forms.gle/iWH4g5fCfVTHsNWo6)|
