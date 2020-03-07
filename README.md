@@ -13,3 +13,4 @@ Course email: dataculture2020@gmail.com
 | Week 6: Pandas | [Notebook](https://colab.research.google.com/drive/1XRHXJxblVXaHMuuh1sM0WKG4Z81G8qh8), [Quiz](https://forms.gle/iWH4g5fCfVTHsNWo6)|
 | Week 7: More Pandas | [Notebook](https://colab.research.google.com/drive/1sm88oZAi1PK9L3uI9LN3y3qW36mvBxJ8), email notebook to the e.evgenovich@gmail.com with topic "DC20"|
 |Week 8: Matplotlib | [Notebook](https://colab.research.google.com/drive/1CqCu-_PDdWDtvTKWGF28l14RZ8HzhMnG), [Solutions](https://colab.research.google.com/drive/1StqAkS8X7PPE6OeFcKrf8yWdhilCa0QL)|
+| Week 9: Correlation | [Notebook](https://colab.research.google.com/drive/1AgOs3n4taYX2Q1wHLCYuhJvbnApNt_rj) |
