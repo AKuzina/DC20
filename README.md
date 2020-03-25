@@ -23,3 +23,12 @@ Course email: dataculture2020@gmail.com
 | **Midterm** | --- | [Notebook](https://drive.google.com/file/d/1pYPByGuHsZBPGoN8SWOMYQB0_T8ZLJPh/view?usp=sharing) | [Notebook with solution](https://drive.google.com/file/d/1S7-w4Jduun2UL0xJPMs5OTslcOWPAmyR/view?usp=sharing) |
 
 
+**Bonus Tasks on [Data Camp](https://www.datacamp.com/groups/shared_links/0c185098014555649ee2722bd7ae5b74ae52d89d4ace2762b521d636941ff422)**
+| What | Bonus | Deadline|
+|------|-------|---------|
+|Python Lists| +0.5 to midterm part 1| 01.04.2020 23:59 |
+|Logic, Control Flow and Filtering| +0.5 to midterm part 1|01.04.2020 23:59 |
+|Numpy| +0.5 to midterm part 2|01.04.2020 23:59 |
+| Functions and Packages| +0.5 to midterm part 2|01.04.2020 23:59 |
+| Matplotlib| +0.5 to midterm part 3|01.04.2020 23:59 |
+| Dictionaries&Pandas| +0.5 to midterm part 3|01.04.2020 23:59 |
