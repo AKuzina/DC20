@@ -19,4 +19,7 @@ Course email: dataculture2020@gmail.com
 
 | |Deadline | Task | Solution|
 |-|---------|------|----------|
-| **HW1** |24.03.2020 23:59| [Notebook](https://colab.research.google.com/drive/1JHv-EtanbzbwmAR6xb8s3kdJZWu0sOc6)| |
+| **HW1** |24.03.2020 23:59| [Notebook](https://colab.research.google.com/drive/1JHv-EtanbzbwmAR6xb8s3kdJZWu0sOc6)| [Notebook with solutions](https://colab.research.google.com/drive/12PuxigKI8XRlgIfo1uX6HK7_7kHEzZw2)|
+| **Midterm** | --- | [Notebook](https://drive.google.com/file/d/1pYPByGuHsZBPGoN8SWOMYQB0_T8ZLJPh/view?usp=sharing) | [Notebook with solution](https://drive.google.com/file/d/1S7-w4Jduun2UL0xJPMs5OTslcOWPAmyR/view?usp=sharing) |
+
+
