@@ -15,12 +15,14 @@ Course email: dataculture2020@gmail.com
 |Week 8: Matplotlib | [Notebook](https://colab.research.google.com/drive/1CqCu-_PDdWDtvTKWGF28l14RZ8HzhMnG), [Solutions](https://colab.research.google.com/drive/1StqAkS8X7PPE6OeFcKrf8yWdhilCa0QL)|
 | Week 9, 10: Mean, Variance and Correlation | [Notebook with solutions](https://colab.research.google.com/drive/1AgOs3n4taYX2Q1wHLCYuhJvbnApNt_rj) |
 | Week 11: Midterm exam ||
+| Week 12: Linear Regression | [Notebook with solutions](https://colab.research.google.com/drive/14wmf4yUdkQuYC1gzSfdkwxKdfxK-Elrp)
 
 
 | |Deadline | Task | Solution|
 |-|---------|------|----------|
 | **HW1** |24.03.2020 23:59| [Notebook](https://colab.research.google.com/drive/1JHv-EtanbzbwmAR6xb8s3kdJZWu0sOc6)| [Notebook with solutions](https://colab.research.google.com/drive/12PuxigKI8XRlgIfo1uX6HK7_7kHEzZw2)|
-| **Midterm** | --- | [Notebook](https://drive.google.com/file/d/1pYPByGuHsZBPGoN8SWOMYQB0_T8ZLJPh/view?usp=sharing) | [Notebook with solution](https://drive.google.com/file/d/1S7-w4Jduun2UL0xJPMs5OTslcOWPAmyR/view?usp=sharing) |
+| **Midterm** | --- | [Notebook](https://drive.google.com/file/d/1pYPByGuHsZBPGoN8SWOMYQB0_T8ZLJPh/view?usp=sharing) | [Notebook with solutions](https://drive.google.com/file/d/1S7-w4Jduun2UL0xJPMs5OTslcOWPAmyR/view?usp=sharing) |
+| **HW2**|   |    |    |
 
 
 **Bonus Tasks on [Data Camp](https://www.datacamp.com/groups/shared_links/0c185098014555649ee2722bd7ae5b74ae52d89d4ace2762b521d636941ff422)**
