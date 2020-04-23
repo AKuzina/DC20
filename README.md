@@ -16,7 +16,8 @@ Course email: dataculture2020@gmail.com
 | Week 9, 10: Mean, Variance and Correlation | [Notebook with solutions](https://colab.research.google.com/drive/1AgOs3n4taYX2Q1wHLCYuhJvbnApNt_rj) |
 | Week 11: Midterm exam ||
 | Week 12: Linear Regression | [Notebook with solutions](https://colab.research.google.com/drive/14wmf4yUdkQuYC1gzSfdkwxKdfxK-Elrp)
-| Week 13: More LR | [Notebook](https://github.com/polyhex-sqr/data_culture_hse/blob/master/seminar_6_correlation_linear_regression/regression_guide.ipynb)|
+| Week 13: Simple linear regression | [Notebook with solutions](https://github.com/polyhex-sqr/data_culture_hse/blob/master/seminar_6_correlation_linear_regression/regression_guide.ipynb)|
+| Week 14: Multinomial linear regression | [Notebook](https://colab.research.google.com/drive/1aKXa_s-4yzO925oDtDsgIyCytOhVGAvZ)|
 
 | |Deadline | Task | Solution|
 |-|---------|------|----------|
