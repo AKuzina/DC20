@@ -18,6 +18,15 @@ Course email: dataculture2020@gmail.com
 | Week 12: Linear Regression | [Notebook with solutions](https://colab.research.google.com/drive/14wmf4yUdkQuYC1gzSfdkwxKdfxK-Elrp)
 | Week 13: Simple linear regression | [Notebook with solutions](https://github.com/polyhex-sqr/data_culture_hse/blob/master/seminar_6_correlation_linear_regression/regression_guide.ipynb)|
 | Week 14: Multinomial linear regression | [Notebook](https://colab.research.google.com/drive/1aKXa_s-4yzO925oDtDsgIyCytOhVGAvZ)|
+|Week 15: Application of linear regression | [Notebook](https://drive.google.com/file/d/1JJVby73V0EET0xNz8PINWKO54cKB1Mhf/view?usp=sharing)|
+|Week 16: Regularization | [Notebook](https://colab.research.google.com/drive/1My60Mvt5GobDuFE-Ea-4hChfHM0ow0uo?usp=sharing)|
+|Week 17: TBA| |
+|Week 18: TBA| |
+|Week 19: TBA| |
+|Week 20: TBA| |
+|Week 21: TBA| |
+|Week 22: Project presentations| |
+|Week 23: Project presentations| |
 
 | |Deadline | Task | Solution|
 |-|---------|------|----------|
