@@ -3,6 +3,8 @@ Lecture notes on Data Culture course. HSE, Economics and Politics in Asia
 
 Course email: dataculture2020@gmail.com
 
+All the grades are [here](https://docs.google.com/spreadsheets/d/1P6eHnt8p2zl3XIBz3kF4JMqGgmr4uupEicDqoDpSauw/edit?usp=sharing)
+
 |         | Materials     |
 | ------- | ------------- |
 | Week 1. Logistics and Intro  | [Presentation](https://docs.google.com/presentation/d/1vN23KKk7OWdoL-mRhW2JvpUHvmMCfsaul3EaxGK3SxQ/edit?usp=sharing), [Notebook with solutions](https://colab.research.google.com/drive/1hZVQMz-ZiBULGzdnT6ZgpPvZu_wg67Zz), [Quiz](https://forms.gle/P5CWq52cR4Cugbzn7)  |
@@ -20,7 +22,7 @@ Course email: dataculture2020@gmail.com
 | Week 14: Multinomial linear regression | [Notebook](https://colab.research.google.com/drive/1aKXa_s-4yzO925oDtDsgIyCytOhVGAvZ)|
 |Week 15: Application of linear regression | [Notebook](https://drive.google.com/file/d/1JJVby73V0EET0xNz8PINWKO54cKB1Mhf/view?usp=sharing)|
 |Week 16: Regularization | [Notebook](https://colab.research.google.com/drive/1My60Mvt5GobDuFE-Ea-4hChfHM0ow0uo?usp=sharing)|
-|Week 17: TBA| |
+|Week 17: Exploratory Data Analysis| [Notebook](https://colab.research.google.com/drive/1BgDiEO_kyrlkkPcMmZaozAI0D_zfcRjk?usp=sharing)|
 |Week 18: TBA| |
 |Week 19: TBA| |
 |Week 20: TBA| |
