@@ -25,13 +25,13 @@ Recommended readings/practice:
 | Week 9, 10: Mean, Variance and Correlation | [Notebook with solutions](https://colab.research.google.com/drive/1AgOs3n4taYX2Q1wHLCYuhJvbnApNt_rj) | ES (chapter 1)|
 | Week 11: Midterm exam ||
 | Week 12: Linear Regression | [Notebook with solutions](https://colab.research.google.com/drive/14wmf4yUdkQuYC1gzSfdkwxKdfxK-Elrp) | ES (chapter 3), PDSH (chapter 5)|
-| Week 13: Simple linear regression | [Notebook with solutions](https://github.com/polyhex-sqr/data_culture_hse/blob/master/seminar_6_correlation_linear_regression/regression_guide.ipynb)| ES (chapter 3), PDSH (chapter 5)|
+| Week 13: Simple linear regression | [Notebook with solutions](https://colab.research.google.com/drive/1nGQh59NYHXzqZ3YeVL1xLq8uq_u8jK6E?usp=sharing)| ES (chapter 3), PDSH (chapter 5)|
 | Week 14: Multinomial linear regression | [Notebook](https://colab.research.google.com/drive/1aKXa_s-4yzO925oDtDsgIyCytOhVGAvZ)| ES (chapter 3), PDSH (chapter 5)|
 |Week 15: Application of linear regression | [Notebook](https://drive.google.com/file/d/1JJVby73V0EET0xNz8PINWKO54cKB1Mhf/view?usp=sharing)| ES (chapter 3), PDSH (chapter 5)|
 |Week 16: Regularization | [Notebook](https://colab.research.google.com/drive/1My60Mvt5GobDuFE-Ea-4hChfHM0ow0uo?usp=sharing)|  PDSH (chapter 5)|
 |Week 17: Exploratory Data Analysis| [Notebook](https://colab.research.google.com/drive/1BgDiEO_kyrlkkPcMmZaozAI0D_zfcRjk?usp=sharing)| DC3|
-|Week 18: Decision Trees| | PDSH (chapter 5)|
-|Week 19: TBA| |
+|Week 18: Decision Trees| [Notebook](https://colab.research.google.com/drive/1ikLZBm5PkkWVW-XRnDJBWMPBr9wv38WV?usp=sharing) | PDSH (chapter 5)|
+|Week 19: Group project| [Notebook](https://colab.research.google.com/drive/102Nmu70CahfQFspTyqcjanjGxi18FM95?usp=sharing)|
 |Week 20: TBA| |
 |Week 21: TBA| |
 |Week 22: Project presentations| |
